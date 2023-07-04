@@ -1,0 +1,3 @@
+https://github.com/sccn/eeglab
+
+Requires plugin 'Zapline-plus'
